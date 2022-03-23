@@ -42,7 +42,7 @@ The following topics will be covered:
 * gradCAM is a good technique for diving into a domain called model interpretability
 * You can see how the model gives importance to certain features of an image to be able to classify it appropriately
 * Diabetic Retinopathy:
-*[dr](https://user-images.githubusercontent.com/42891370/159716920-b474bcbb-9fe7-46b1-a8f9-7f3f61d16f1b.jpg)
+![dr](https://github.com/AShahLab/MultipleOcularDisorders_CV/blob/main/Images/dr.jpg)
 
 ### Task 3 Takeaways
 
