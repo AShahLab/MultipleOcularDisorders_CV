@@ -1,4 +1,4 @@
-# :eye:MultipleOcularDisorders_CV
+# :eye:Multiple Ocular Disorders Classification
 
 This project creates a classifier that is able to categorize ocular pathologies into 4 categories i.e. Diabetic Retinopathy, Glaucoma, Other, and Normal. We will be using multiple ML methods as a means of learning how to apply those ML methods and also to find out the best methods. 
 The kaggle dataset can be found [here]( https://www.kaggle.com/c/vietai-advance-course-retinal-disease-detection/overview)
