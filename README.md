@@ -63,15 +63,15 @@ The following topics will be covered:
 * We were able to concatenate the labeled and unlabeled data (post label propagation) and retrain the network (AlexNet)
 * The results are shown below for all models:  
 
-                                        |Models          | Precision|Recall|Accuracy   |F1    |
-                                        |------|-------|---------|-------------|----------|  
-                                        |AlexNet    |   0.73   |  0.70   |  0.71  |0.70   
-                                        |AlexNet with Image Augmentation|0.20|0.29|0.44|0.23 
-                                        |VGG16 with Image Augmentation and Regularization|     0.40  | 0.47 | 0.59 |0.41  
-                                        |VGG16 Fine Tuned|   0.62  |  0.56  |  0.60  | 0.57    
-                                        |Xception with Image Augmentation and Regularization|0.63 |0.48 |0.59 |0.41 |  
-                                        |Xception Fine Tuned| 0.61|0.58 |0.60 |0.59 |  
-                                        |AlexNet with unsupervised learning predictions|0.68|0.66|0.66|0.65|  
+|Models          | Precision|Recall|Accuracy   |F1    |
+|------|-------|---------|-------------|----------|  
+|AlexNet    |   0.73   |  0.70   |  0.71  |0.70   
+|AlexNet with Image Augmentation|0.20|0.29|0.44|0.23 
+|VGG16 with Image Augmentation and Regularization|     0.40  | 0.47 | 0.59 |0.41  
+|VGG16 Fine Tuned|   0.62  |  0.56  |  0.60  | 0.57    
+|Xception with Image Augmentation and Regularization|0.63 |0.48 |0.59 |0.41 |  
+|Xception Fine Tuned| 0.61|0.58 |0.60 |0.59 |  
+|AlexNet with unsupervised learning predictions|0.68|0.66|0.66|0.65|    
 
 
 ## Authors
