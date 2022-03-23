@@ -41,8 +41,21 @@ The following topics will be covered:
 
 * gradCAM is a good technique for diving into a domain called model interpretability
 * You can see how the model gives importance to certain features of an image to be able to classify it appropriately
-* Diabetic Retinopathy:
-![dr](https://github.com/AShahLab/MultipleOcularDisorders_CV/blob/main/Images/dr.jpg)
+* Diabetic Retinopathy:  
+
+![dr](https://github.com/AShahLab/MultipleOcularDisorders_CV/blob/main/Images/dr.jpg)  
+
+* Glaucoma:  
+
+![g](https://github.com/AShahLab/MultipleOcularDisorders_CV/blob/main/Images/glauc.jpg)  
+
+* Other:  
+
+![o](https://github.com/AShahLab/MultipleOcularDisorders_CV/blob/main/Images/other.jpg)  
+
+* Normal:  
+
+![n](https://github.com/AShahLab/MultipleOcularDisorders_CV/blob/main/Images/normal.jpg)
 
 ### Task 3 Takeaways
 
@@ -55,9 +68,3 @@ The following topics will be covered:
 
 * **Awais Shah** 
 
-## Acknowledgments and Links used
-
-* [FChollet- Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)
-* [Geron-Hands-On ML v2](https://github.com/ageron/handson-ml2)
-* [:hugs:](https://huggingface.co/)
-* [sklearn-It is a gold mine of ML concepts](https://scikit-learn.org/stable/user_guide.html)
