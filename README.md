@@ -37,7 +37,7 @@ The following topics will be covered:
 * We ran a VGG16 with ImageNet weights and image augmentation, and then fine-tuned it for our data, whereby the fine-tuned version proved better.
 * We ran an Xception model with similar modifications as the VGG16. Performance did not improve.
 
-### Task 2 Takeaways!
+### Task 2 Takeaways
 
 * gradCAM is a good technique for diving into a domain called model interpretability
 * You can see how the model gives importance to certain features of an image to be able to classify it appropriately
